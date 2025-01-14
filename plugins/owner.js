@@ -23,13 +23,13 @@ let dec = `*👋 Hello ${pushname}*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
-*⚡ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ᴀɴɪʟᴀ ʟᴏᴄʜᴀɴᴀ*
-*⚡ɴᴜᴍʙᴇʀ* -: 94758315442
-*⚡ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VagpujoJJhzdr8aNPp1D
+*⚡ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*
+*⚡ɴᴜᴍʙᴇʀ* -: 94769615736
+*⚡ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-: https://whatsapp.com/channel/0029Vb30SSF3wtb1aK7ZGa3u* 
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴɪʟᴀ ʟᴏᴄʜᴀɴᴀ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*
 `
-await conn.sendMessage(from,{image:{url:`https://telegra.ph/file/3f7249eb429c8211cbba3.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url:`https://i.ibb.co/XZdtG0d/6254.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
@@ -50,16 +50,16 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/anilaiduwara/BLACK-LEAGUE-MD 
+👨‍💻◦https://github.com/DARKSIHINA/ROWDY-MD
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ https://whatsapp.com/channel/0029VagpujoJJhzdr8aNPp1D
+👨‍💻◦ https://whatsapp.com/channel/0029Vb30SSF3wtb1aK7ZGa3u
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴɪʟᴀ ʟᴏᴄʜᴀɴᴀ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*
 `
-await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/3f7249eb429c8211cbba3.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/XZdtG0d/6254.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
