@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94702940582']
+const ownerNumber = ['94769615736']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -68,19 +68,19 @@ require("./plugins/" + plugin);
 });
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
-let up = `*𝗕𝗟𝗔𝗖𝗞 𝗟𝗘𝗔𝗨𝗚𝗘 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!* ✅ 
+let up = `*𝗥𝗢𝗪𝗗𝗬 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!* ✅ 
 
-🌟 *Welcome to 𝗯𝗮𝗰𝗸 𝗹𝗲𝗮𝘂𝗴𝗲 𝗺𝗱!* 🌟
+🌟 *Welcome to 𝗿𝗼𝘄𝗱𝘆 𝗺𝗱!* 🌟
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94702940582
+*🔹 OWNER:* 94769615736
 
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VagpujoJJhzdr8aNPp1D
+*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029Vb30SSF3wtb1aK7ZGa3u
 
-> *ᴘᴏᴡᴇʀᴅ ʙʏ ᴀɴɪʟᴀ ʟᴏᴄʜᴀɴᴀ*`;
+> *ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/3f7249eb429c8211cbba3.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
 
 }
 })
@@ -142,7 +142,11 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
-
+//========MODE==========
+if(!isOwner && config.MODE === "private") return
+if(!isOwner && isGroup && config.MODE === "inbox") return
+if(!isOwner && !isGroup && config.MODE === "groups") return
+//=======================
 
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
