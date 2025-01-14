@@ -14,29 +14,26 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let desc = `*👋 Hello ${pushname}*
 
-*╭─「 ʙʟᴀᴄᴋ ʟᴇᴀᴜɢᴇ ᴍᴅ 」*
+*╭─「 𝘙𝘖𝘞𝘋𝘠 𝘔𝘋 𝘔𝘌𝘕𝘜 𝘓𝘐𝘚𝘛 」*
 *│◈ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│◈ ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│◈ ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│◈ ᴠᴇʀꜱɪᴏɴ : 1.0.0*
-*│◈  ᴡᴇʙ ꜱɪᴛᴇ : https://website-esx.pages.dev*
 *╰──────────●●►*
 
 *╭╼╼╼╼╼╼╼╼╼╼*
 *├ 1 • MAIN*
-*├ 2 • CONVERT*
-*├ 3 • SEARCH*
-*├ 4 • DOWNLOAD*
+*├ 2 • SEARCH*
+*├ 3 • DOWNLOAD*
 *├ 5 • GROUP*
 *├ 6 • OWNER*
-*├ 7 • MOVIE*
 *╰╼╼╼╼╼╼╼╼╼╼*
 
 _*🌟 Reply with the Number you want to select*_
 
-> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘼𝙉𝙄𝙇𝘼 𝙇𝙊𝘾𝙃𝘼𝙉𝘼*`;
+> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼*`;
 
-        const vv = await conn.sendMessage(from, { image: { url: "https://telegra.ph/file/3f7249eb429c8211cbba3.jpg"}, caption: desc }, { quoted: mek });
+        const vv = await conn.sendMessage(from, { image: { url: "https://i.ibb.co/XZdtG0d/6254.jpg"}, caption: desc }, { quoted: mek });
 
         conn.ev.on('messages.upsert', async (msgUpdate) => {
             const msg = msgUpdate.messages[0];
@@ -76,25 +73,7 @@ _*🌟 Reply with the Number you want to select*_
                         break;
                     case '2':               
                         reply(`
-╔════════════════════════╗  
-║ 🔄 **𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 🔄 ║  
-╚════════════════════════╝  
 
-╭─━─━─━〔 ⚡ **Commands** ⚡ 〕━─━─━╮  
-┃ ◈ **sticker**  
-┃ ◈ **toppt**  
-┃ ◈ **img2url**  
-╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
-📊 **Total Commands in CONVERT:** 1  
-
-━━━━━━━━━━━━━━━━━━━━━━━  
-💡 **POWERED BY ANILA LOCHANA**  
-━━━━━━━━━━━━━━━━━━━━━━━
-`);
-                  
-                        break;
-                    case '3':               
-                        reply(`
 ╔════════════════════════╗  
 ║ 🔍 **𝗦𝗘𝗔𝗥𝗖𝗛 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 🔍 ║  
 ╚════════════════════════╝  
@@ -119,7 +98,7 @@ _*🌟 Reply with the Number you want to select*_
 ━━━━━━━━━━━━━━━━━━━━━━━
 `);
                         break;
-                    case '4':               
+                    case '3':               
                         reply(`
 ╔════════════════════════╗  
 ║ 📥 **𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 📥 ║  
@@ -148,7 +127,7 @@ _*🌟 Reply with the Number you want to select*_
 `);
                     
                         break;
-                    case '5':               
+                    case '4':               
                         reply(`
 ╔════════════════════════╗  
 ║ 👥 **𝗚𝗥𝗢𝗨𝗣 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 👥 ║  
@@ -196,16 +175,13 @@ _*🌟 Reply with the Number you want to select*_
 ━━━━━━━━━━━━━━━━━━━━━━━
 `);
                     break;
-                    case '6':               
+                    case '5':               
                         reply(`
 ╔════════════════════════╗  
 ║ 👨‍💻 **𝗢𝗪𝗡𝗘𝗥 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 👨‍💻 ║  
 ╚════════════════════════╝  
 
-╭─━─━─━〔 🍿 **Commands** 🍿 〕━─━─━╮  
-┃ ◈ **setting**  
-┃ ◈ **apply**  
-┃ ◈ **group**  
+╭─━─━─━〔 🍿 **Commands** 🍿 〕━─━─━╮ 
 ┃ ◈ **shutdown**  
 ┃ ◈ **setpp**  
 ┃ ◈ **shutdown**  
@@ -222,36 +198,6 @@ _*🌟 Reply with the Number you want to select*_
 `);
                        
                         
-                    
-                        
-                        break;
-                    case '7':               
-                        reply(`
-╔════════════════════════╗  
-║ 🎬 **𝗠𝗢𝗩𝗜𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 🎬 ║  
-╚════════════════════════╝  
-
-╭─━─━─━〔 🍿 **Commands** 🍿 〕━─━─━╮  
-┃ ◈ **slsub**  
-┃ ◈ **imdb**  
-┃ ◈ **mkv**  
-┃ ◈ **upmv**  
-┃ ◈ **upzipfile**  
-┃ ◈ **uploadmoviem**  
-┃ ◈ **uploadme**  
-┃ ◈ **uploadmovie**  
-╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
-
-📊 **Total Commands in MOVIE:** 8 
-
-━━━━━━━━━━━━━━━━━━━━━━━  
-💡 **POWERED BY ANILA LOCHANA**  
-━━━━━━━━━━━━━━━━━━━━━━━
-`)
-
-
-                        
-
                     break;
                     default:
                     
@@ -267,106 +213,3 @@ _*🌟 Reply with the Number you want to select*_
         reply('An error occurred while processing your request.');
     }
 });
-
-//           ==all menu command ==
-
-cmd({
-    pattern: "allmenu",
-    desc: "All commands.",
-    react: "📜",
-    category: "main",
-    filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-    
-let menu = {
-main: '',
-download: '',
-group: '',
-owner: '',
-convert: '',
-ai: '',
-tools: '',
-search: '',
-fun: '',
-voice: '',
-other: '',
-movie:'',
-news:''
-};
-
-for (let i = 0; i < commands.length; i++) {
-if (commands[i].pattern && !commands[i].dontAddCommandList) {
-menu[commands[i].category] += `.${commands[i].pattern}\n`;
- }
-}
-
-let madeMenu = ` 
-╔═══════════════════════════╗  
-║ 🌟 **𝗕𝗟𝗔𝗖𝗞 𝗟𝗘𝗔𝗚𝗨𝗘 𝗠𝗗** 🌟   ║  
-║  *The Ultimate Experience*  ║  
-╚═══════════════════════════╝  
-
-👋 **Hello, ${pushname}!**  
-✨ **Welcome to the world of possibilities!**  
-
-━━━━━━━━━━━━━━━━━━━━━━━  
-🔥 **𝗕𝗢𝗧 𝗜𝗡𝗙𝗢** 🔥  
-━━━━━━━━━━━━━━━━━━━━━━━  
-🔧 **Run Time:** ${runtime(process.uptime())}  
-👤 **Owner:** Anila Lochana  
-📞 **Contact:** 94758315442  
-🌐 **Website:** redfox-inc.22web.org 
-
-━━━━━━━━━━━━━━━━━━━━━━━  
-📂 **𝗔𝗟𝗟 𝗠𝗘𝗡𝗨𝗦**  
-━━━━━━━━━━━━━━━━━━━━━━━  
-
-📥 **Download Menu**  
-╔═════════════════════╗  
-${menu.download}  
-╚═════════════════════╝  
-
-🔧 **Main Menu**  
-╔═════════════════════╗  
-${menu.main}  
-╚═════════════════════╝  
-
-🔄 **Convert Tools**  
-╔═════════════════════╗  
-${menu.convert}  
-╚═════════════════════╝  
-
-🔍 **Search Features**  
-╔═════════════════════╗  
-${menu.search}  
-╚═════════════════════╝  
-
-👥 **Group Management**  
-╔═════════════════════╗  
-${menu.group}  
-╚═════════════════════╝  
-
-🔒 **Owner Menu**  
-╔═════════════════════╗  
-${menu.owner}  
-╚═════════════════════╝  
-
-🎬 **Movie Updates**  
-╔═════════════════════╗  
-${menu.movie}  
-╚═════════════════════╝  
-
-
-━━━━━━━━━━━━━━━━━━━━━━━  
-💡 **POWERED BY ANILA LOCHANA**  
-━━━━━━━━━━━━━━━━━━━━━━━
-`
-
-return await conn.sendMessage(from,{image: {url:`https://telegra.ph/file/3f7249eb429c8211cbba3.jpg`},caption:madeMenu},{quoted: mek})
-}catch(e){
-console.log(e)
-reply(`𝔼𝕣𝕣𝕣𝕠𝕣`)
-}
-})
