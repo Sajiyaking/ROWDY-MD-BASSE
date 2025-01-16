@@ -83,7 +83,7 @@ let up = `*𝗥𝗢𝗪𝗗𝗬 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 �
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
           
           if (config.ALWAYS_ONLINE === "false")
-          }
+          
       }
   })
 conn.ev.on('creds.update', saveCreds)  
