@@ -82,10 +82,12 @@ let up = `*𝗥𝗢𝗪𝗗𝗬 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 �
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
           
-          if (config.ALWAYS_ONLINE === "false")
-          
-      }
-  })
+ if (config.ALWAYS_ONLINE === "true") {
+                conn.sendPresenceUpdate('available')
+            }
+        }
+    })     
+
 conn.ev.on('creds.update', saveCreds)  
 
 conn.ev.on('messages.upsert', async(mek) => {
@@ -93,9 +95,6 @@ mek = mek.messages[0]
 if (!mek.message) return	
 mek.message = (getContentType(mek.message) === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
 if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_READ_STATUS === "true")
-if (config.ALWAYS_ONLINE === "false"){
-await conn.readMessages([mek.key])
-}
 const m = sms(conn, mek)
 const type = getContentType(mek.message)
 const content = JSON.stringify(mek.message)
@@ -191,6 +190,7 @@ if (isGroup && config.ANTI_BOT === "true") {
         return; // Exit early since a bot was detected and handled
     }
 }
+//=====================================
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
 if (isCmd) {
