@@ -81,20 +81,18 @@ let up = `*𝗥𝗢𝗪𝗗𝗬 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 �
 > *ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
-          
- if (config.ALWAYS_ONLINE === "true") {
-                conn.sendPresenceUpdate('available')
-            }
-        }
-    })     
 
+}
+})
 conn.ev.on('creds.update', saveCreds)  
 
 conn.ev.on('messages.upsert', async(mek) => {
 mek = mek.messages[0]
 if (!mek.message) return	
 mek.message = (getContentType(mek.message) === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
-if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_READ_STATUS === "true")
+if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_READ_STATUS === "true"){
+await conn.readMessages([mek.key])
+}
 const m = sms(conn, mek)
 const type = getContentType(mek.message)
 const content = JSON.stringify(mek.message)
@@ -148,49 +146,8 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
-        //========Settings===============//
-if (isGroup && config.ANTI_LINK) {
-            // Define patterns for chat.whatsapp.com links
-            const chatLinkPattern = /chat\.whatsapp\.com\/(g|gb)\/[A-Z0-9]{5,}/i;
+//=======================
 
-            // Check if the message contains a chat.whatsapp.com link
-            if (chatLinkPattern.test(body)) {
-                // Check if the sender is an admin or the bot itself
-                if (!isBotAdmins && !isAdmins && !isOwner) {
-                    // Send a warning message and delete the message
-                    await conn.sendMessage(from, { text: '🚩 Links are not allowed in this group!' }, { quoted: mek });
-                    await conn.sendMessage(from, { delete: mek.key });
-                } else if (!isBotAdmins) {
-                    // Notify that the bot is not an admin
-                    await conn.sendMessage(from, { text: '🚩 I am not an admin, so I cannot delete messages with links.' }, { quoted: mek });
-                }
-                return; // Exit early if a link is found
-            }
-        }
-
-//===============antibot=========
-
-if (isGroup && config.ANTI_BOT === "true") {
-    // Check if the sender is another bot (Baileys-based or similar) and is not an admin or owner
-    if (!isAdmins && !isOwner && m.isBaileys) {
-        console.log('Detected another bot in the group');
-
-        // Check if the current bot has admin rights
-        if (isBotAdmins) {
-            // Delete the bot's message and send a warning message
-            await conn.sendMessage(from, { delete: mek.key });
-            await conn.sendMessage(from, { text: '🚫 Bot detected and removed. Only admins can add bots to this group.' });
-
-            // Remove the bot from the group (this assumes the detected bot is the sender)
-            await conn.groupParticipantsUpdate(from, [sender], "remove");
-        } else {
-            // Notify that the bot does not have admin rights to remove the detected bot
-            await conn.sendMessage(from, { text: '🚫 Bot detected. I need admin rights to remove it.' });
-        }
-        return; // Exit early since a bot was detected and handled
-    }
-}
-//=====================================
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
 if (isCmd) {
