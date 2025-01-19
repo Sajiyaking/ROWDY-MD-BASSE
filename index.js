@@ -75,24 +75,13 @@ let up = `*🚀 *ROWDY MD Connected Successfully!* ✅
     ✦» 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : fv-az1927-433
     ✦» 𝙾𝚆𝙽𝙴𝚁: 94769615736
     
-    --- **Current Settings:**
-    ✦» **PREFIX:** .
-    ✦» **MODE:** public
-    ✦» **AUTO READ STATUS:** Enabled
-    ✦» **READ CMD:** Enabled
-    ✦» **AUTO VOICE:** Disabled
-    ✦» **AUTO STICKER:** Disabled
-    ✦» **AUTO REPLY:** Disabled
-    ✦» **AUTO REACT:** Disabled
-    ✦» **WELCOME:** Enabled
-    ✦» **ANTI BAD:** Disabled
-    ✦» **ANTI BOT:** Enabled
-    ✦» **ANTI LINK:** Disabled
-    ✦» **ALWAYS ONLINE:** Disabled
-    ✦» **MOROCCO BLOCK:** Enabled
-    ✦» **AUTO NEWS:** Disabled
-    ✦» **AUTO TYPING:** Disabled
-    ✦» **AUTO RECORDING:** Enabled
+  --- *Current Settings:*
+    
+  ✦» 𝐏𝐑𝐄𝐅𝐈𝐗: .
+
+  ✦» 𝐎𝐖𝐍𝐄𝐑: 94769615736
+
+  ✦» *🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029Vb30SSF3wtb1aK7ZGa3u
 
     --- Thank you for using *ROWDY MD*. 
     We're here to make your experience enjoyable and seamless. 
