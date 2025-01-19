@@ -68,17 +68,40 @@ require("./plugins/" + plugin);
 });
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
-let up = `*𝗥𝗢𝗪𝗗𝗬 𝗠𝗗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝗳𝘂𝗹𝗹𝘆!* ✅ 
+let up = 🚀 **ROWDY MD Connected Successfully!** ✅ 
+   
+  *🎉Welcome to ROWDY MD!!*🎉 
+    ✦» 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : 1
+    ✦» 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : fv-az1927-433
+    ✦» 𝙾𝚆𝙽𝙴𝚁: 94769615736
+    
+    --- **Current Settings:**
+    ✦» **PREFIX:** .
+    ✦» **MODE:** public
+    ✦» **AUTO READ STATUS:** Enabled
+    ✦» **READ CMD:** Enabled
+    ✦» **AUTO VOICE:** Disabled
+    ✦» **AUTO STICKER:** Disabled
+    ✦» **AUTO REPLY:** Disabled
+    ✦» **AUTO REACT:** Disabled
+    ✦» **WELCOME:** Enabled
+    ✦» **ANTI BAD:** Disabled
+    ✦» **ANTI BOT:** Enabled
+    ✦» **ANTI LINK:** Disabled
+    ✦» **ALWAYS ONLINE:** Disabled
+    ✦» **MOROCCO BLOCK:** Enabled
+    ✦» **AUTO NEWS:** Disabled
+    ✦» **AUTO TYPING:** Disabled
+    ✦» **AUTO RECORDING:** Enabled
 
-🌟 *Welcome to 𝗿𝗼𝘄𝗱𝘆 𝗺𝗱!* 🌟
+    --- Thank you for using *ROWDY MD*. 
+    We're here to make your experience enjoyable and seamless. 
+    If you need any help or have questions, don't hesitate to ask. 
+    
+    *Enjoy your time with us!* 😚
 
-*🔹 PREFIX:* .
-
-*🔹 OWNER:* 94769615736
-
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029Vb30SSF3wtb1aK7ZGa3u
-
-> *ᴘᴏᴡᴇʀᴅ ʙʏ ᴅᴀʀᴋ ꜱɪʜɪɴᴀ*`;
+> *𝐃𝐀𝐊𝐒𝐇𝐈𝐍𝐀 𝐎𝐅𝐂 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓. 💗*
+▰▰▰▰▰▰▰▰▰
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
 
