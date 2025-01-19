@@ -68,7 +68,7 @@ require("./plugins/" + plugin);
 });
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
-let up = 🚀 **ROWDY MD Connected Successfully!** ✅ 
+let up = `*🚀 *ROWDY MD Connected Successfully!* ✅ 
    
   *🎉Welcome to ROWDY MD!!*🎉 
     ✦» 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : 1
@@ -101,7 +101,7 @@ let up = 🚀 **ROWDY MD Connected Successfully!** ✅
     *Enjoy your time with us!* 😚
 
 > *𝐃𝐀𝐊𝐒𝐇𝐈𝐍𝐀 𝐎𝐅𝐂 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓. 💗*
-▰▰▰▰▰▰▰▰▰
+▰▰▰▰▰▰▰▰▰`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/XZdtG0d/6254.jpg` }, caption: up })
 
