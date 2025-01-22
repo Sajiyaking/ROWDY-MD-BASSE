@@ -1,1 +1,214 @@
-function _0x3676(_0x1008b3,_0x44c5f2){const _0x147610=_0x1476();return _0x3676=function(_0x367641,_0x119ee2){_0x367641=_0x367641-0xa9;let _0x577c2d=_0x147610[_0x367641];return _0x577c2d;},_0x3676(_0x1008b3,_0x44c5f2);}function _0x1476(){const _0x50fb42=['\x0a╔════════════════════════╗\x20\x20\x0a║\x20👥\x20**𝗚𝗥𝗢𝗨𝗣\x20𝗖𝗢𝗠𝗠𝗔𝗡𝗗\x20𝗟𝗜𝗦𝗧**\x20👥\x20║\x20\x20\x0a╚════════════════════════╝\x20\x20\x0a\x0a╭─━─━─━〔\x20⚡\x20**Commands**\x20⚡\x20〕━─━─━╮\x20\x20\x0a┃\x20◈\x20**mute**\x20\x20\x0a┃\x20◈\x20**unmute**\x20\x20\x0a┃\x20◈\x20**promote**\x20\x20\x0a┃\x20◈\x20**demote**\x20\x20\x0a┃\x20◈\x20**del**\x20\x20\x0a┃\x20◈\x20**add**\x20\x20\x0a┃\x20◈\x20**getpic**\x20\x20\x0a┃\x20◈\x20**setwelcome**\x20\x20\x0a┃\x20◈\x20**setgoodbye**\x20\x20\x0a┃\x20◈\x20**admins**\x20\x20\x0a┃\x20◈\x20**groupdesc**\x20\x20\x0a┃\x20◈\x20**groupinfo**\x20\x20\x0a┃\x20◈\x20**gname**\x20\x20\x0a┃\x20◈\x20**setsubject**\x20\x20\x0a┃\x20◈\x20**tagall**\x20\x20\x0a┃\x20◈\x20**requests**\x20\x20\x0a┃\x20◈\x20**accept**\x20\x20\x0a┃\x20◈\x20**reject**\x20\x20\x0a┃\x20◈\x20**hidetag**\x20\x20\x0a┃\x20◈\x20**kick**\x20\x20\x0a┃\x20◈\x20**unlock**\x20\x20\x0a┃\x20◈\x20**lock**\x0a┃\x20◈\x20**gname**\x20\x20\x0a┃\x20◈\x20**approve**\x20\x20\x0a┃\x20◈\x20**poll**\x20\x20\x0a┃\x20◈\x20**getpic**\x20\x20\x0a┃\x20◈\x20**join**\x20\x20\x0a┃\x20◈\x20**leave**\x20\x20\x0a┃\x20◈\x20**invite**\x20\x20\x0a┃\x20◈\x20**tagadmin**\x20\x20\x0a┃\x20◈\x20**closetime**\x20\x20\x0a┃\x20◈\x20**opentime**\x0a╰─━─━─━─━─━─━─━─━─━─━─━─━─╯\x20\x20\x0a\x0a📊\x20**Total\x20Commands\x20in\x20GROUP:**\x2032\x20\x20\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━━\x20\x20\x0a💡\x20**POWERED\x20BY\x20ANILA\x20LOCHANA**\x20\x20\x0a━━━━━━━━━━━━━━━━━━━━━━━\x0a','https://i.ibb.co/XZdtG0d/6254.jpg','heapUsed','4577145rzehgQ','\x0a╔════════════════════════╗\x20\x20\x0a║\x20👨‍💻\x20**𝗢𝗪𝗡𝗘𝗥\x20𝗖𝗢𝗠𝗠𝗔𝗡𝗗\x20𝗟𝗜𝗦𝗧**\x20👨‍💻\x20║\x20\x20\x0a╚════════════════════════╝\x20\x20\x0a\x0a╭─━─━─━〔\x20🍿\x20**Commands**\x20🍿\x20〕━─━─━╮\x20\x0a┃\x20◈\x20**shutdown**\x20\x20\x0a┃\x20◈\x20**setpp**\x20\x20\x0a┃\x20◈\x20**shutdown**\x20\x20\x0a┃\x20◈\x20**clearchats**\x20\x20\x0a┃\x20◈\x20**block**\x0a┃\x20◈\x20**unblock**\x0a╰─━─━─━─━─━─━─━─━─━─━─━─━─╯\x20\x20\x0a\x0a📊\x20**Total\x20Commands\x20in\x20MOVIE:**\x209\x20\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━━\x20\x20\x0a💡\x20**POWERED\x20BY\x20ANILA\x20LOCHANA**\x20\x20\x0a━━━━━━━━━━━━━━━━━━━━━━━\x0a','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x0a╔════════════════════════╗\x20\x20\x0a║\x20🔧\x20**𝗠𝗔𝗜𝗡\x20𝗖𝗢𝗠𝗠𝗔𝗡𝗗\x20𝗟𝗜𝗦𝗧**\x20🔧\x20║\x20\x20\x0a╚════════════════════════╝\x20\x20\x0a\x0a╭─━─━─━〔\x20⚡\x20**Commands**\x20⚡\x20〕━─━─━╮\x20\x20\x0a┃\x20◈\x20**alive**\x20\x20\x0a┃\x20◈\x20**about**\x20\x20\x0a┃\x20◈\x20**menu**\x20\x20\x0a┃\x20◈\x20**allmenu**\x20\x20\x0a┃\x20◈\x20**support**\x20\x20\x0a┃\x20◈\x20**system**\x20\x20\x0a┃\x20◈\x20**ping**\x20\x20\x0a┃\x20◈\x20**runtime**\x0a┃\x20◈\x20**jid**\x0a╰─━─━─━─━─━─━─━─━─━─━─━─━─╯\x20\x20\x0a\x0a📊\x20**Total\x20Commands\x20in\x20MAIN:**\x209\x20\x20\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━━\x20\x20\x0a💡\x20**POWERED\x20BY\x20ANILA\x20LOCHANA**\x20\x20\x0a━━━━━━━━━━━━━━━━━━━━━━━\x0a','\x0a╔════════════════════════╗\x20\x20\x0a║\x20📥\x20**𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗\x20𝗖𝗢𝗠𝗠𝗔𝗡𝗗\x20𝗟𝗜𝗦𝗧**\x20📥\x20║\x20\x20\x0a╚════════════════════════╝\x20\x20\x0a\x0a╭─━─━─━〔\x20⚡\x20**Commands**\x20⚡\x20〕━─━─━╮\x20\x20\x0a┃\x20◈\x20**apk**\x20\x20\x0a┃\x20◈\x20**twitter**\x20\x20\x0a┃\x20◈\x20**gdrive**\x20\x20\x0a┃\x20◈\x20**mediafire**\x20\x20\x0a┃\x20◈\x20**fb**\x20\x20\x0a┃\x20◈\x20**ig**\x20\x20\x20\x20\x0a┃\x20◈\x20**song**\x20\x20\x0a┃\x20◈\x20**video**\x20\x20\x20\x0a┃\x20◈\x20**song2**\x20\x20\x0a┃\x20◈\x20**video2**\x20\x20\x0a┃\x20◈\x20**tiktok**\x0a┃\x20◈\x20**mega**\x0a╰─━─━─━─━─━─━─━─━─━─━─━─━─╯\x20\x20\x0a\x0a📊\x20**Total\x20Commands\x20in\x20DOWNLOAD:**\x2012\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━━\x20\x20\x0a💡\x20**POWERED\x20BY\x20ANILA\x20LOCHANA**\x20\x20\x0a━━━━━━━━━━━━━━━━━━━━━━━\x0a','round','list','An\x20error\x20occurred\x20while\x20processing\x20your\x20request.','totalmem','2683919CKooyc','../lib/functions','*\x0a\x0a*╭─「\x20𝘙𝘖𝘞𝘋𝘠\x20𝘔𝘋\x20𝘔𝘌𝘕𝘜\x20𝘓𝘐𝘚𝘛\x20」*\x0a*│◈\x20ʀᴜɴᴛɪᴍᴇ\x20:\x20','messages','9264080YJajXA','../config','9416zLPuzF','key','menu','extendedTextMessage','5695820FBMsZC','trim','contextInfo','sendMessage','uptime','../command','4457646ciaZZF','toFixed','hostname','error','19GVlvqB','messages.upsert','bot\x27s\x20commands','600891FpUCfk','\x0a\x0a╔════════════════════════╗\x20\x20\x0a║\x20🔍\x20**𝗦𝗘𝗔𝗥𝗖𝗛\x20𝗖𝗢𝗠𝗠𝗔𝗡𝗗\x20𝗟𝗜𝗦𝗧**\x20🔍\x20║\x20\x20\x0a╚════════════════════════╝\x20\x20\x0a\x0a╭─━─━─━〔\x20⚡\x20**Commands**\x20⚡\x20〕━─━─━╮\x20\x20\x0a┃\x20◈\x20**yts**\x20\x20\x0a┃\x20◈\x20**srepo**\x0a┃\x20◈\x20**githubstalk**\x20\x20\x0a┃\x20◈\x20**tiktokstalk**\x0a┃\x20◈\x20**image**\x20\x20\x0a┃\x20◈\x20**npmstalk**\x0a┃\x20◈\x20**tempmail**\x20\x20\x0a┃\x20◈\x20**checkmail**\x0a┃\x20◈\x20**delmail**\x0a┃\x20◈\x20**gpass**\x0a╰─━─━─━─━─━─━─━─━─━─━─━─━─╯\x20\x20\x0a\x0a📊\x20**Total\x20Commands\x20in\x20SEARCH:**\x2010\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━━\x20\x20\x0a💡\x20**POWERED\x20BY\x20ANILA\x20LOCHANA**\x20\x20\x0a━━━━━━━━━━━━━━━━━━━━━━━\x0a','message','stanzaId','6MYUzLR','*👋\x20Hello\x20','*\x0a*│◈\x20ᴠᴇʀꜱɪᴏɴ\x20:\x201.0.0*\x0a*╰──────────●●►*\x0a\x0a*╭╼╼╼╼╼╼╼╼╼╼*\x0a*├\x201\x20•\x20MAIN*\x0a*├\x202\x20•\x20SEARCH*\x0a*├\x203\x20•\x20DOWNLOAD*\x0a*├\x205\x20•\x20GROUP*\x0a*├\x206\x20•\x20OWNER*\x0a*╰╼╼╼╼╼╼╼╼╼╼*\x0a\x0a_*🌟\x20Reply\x20with\x20the\x20Number\x20you\x20want\x20to\x20select*_\x0a\x0a>\x20*𝙋𝙊𝙒𝙀𝙍𝙀𝘿\x20𝘽𝙔\x20𝘿𝘼𝙍𝙆\x20𝙎𝙄𝙃𝙄𝙉𝘼*','main','text','MB\x20/\x20'];_0x1476=function(){return _0x50fb42;};return _0x1476();}const _0x1cdfd5=_0x3676;(function(_0xa53ba5,_0x4e7371){const _0x23560b=_0x3676,_0x28de4a=_0xa53ba5();while(!![]){try{const _0x2652c0=-parseInt(_0x23560b(0xd2))/0x1*(parseInt(_0x23560b(0xc4))/0x2)+-parseInt(_0x23560b(0xa9))/0x3+parseInt(_0x23560b(0xc8))/0x4+parseInt(_0x23560b(0xb6))/0x5+-parseInt(_0x23560b(0xad))/0x6*(-parseInt(_0x23560b(0xbe))/0x7)+-parseInt(_0x23560b(0xc2))/0x8+-parseInt(_0x23560b(0xce))/0x9;if(_0x2652c0===_0x4e7371)break;else _0x28de4a['push'](_0x28de4a['shift']());}catch(_0x1e459b){_0x28de4a['push'](_0x28de4a['shift']());}}}(_0x1476,0xbe5e4));const {readEnv}=require(_0x1cdfd5(0xc3)),{cmd,commands}=require(_0x1cdfd5(0xcd)),os=require('os'),{runtime}=require(_0x1cdfd5(0xbf));cmd({'pattern':_0x1cdfd5(0xc6),'alias':[_0x1cdfd5(0xbb)],'desc':_0x1cdfd5(0xd4),'react':'📜','category':_0x1cdfd5(0xb0)},async(_0x37f7ab,_0x369079,_0x4815a4,{from:_0x4f8d43,quoted:_0x203795,body:_0xaadcbf,isCmd:_0xbcd0b1,command:_0x1dc2b7,args:_0xa12bef,q:_0x381812,isGroup:_0x4423c1,sender:_0x442985,senderNumber:_0x5afc15,botNumber2:_0x2bb2d3,botNumber:_0x1d088a,pushname:_0x46020d,isMe:_0x5af989,isOwner:_0x469321,groupMetadata:_0x2619d0,groupName:_0x90f0bb,participants:_0x3641e4,groupAdmins:_0x229d61,isBotAdmins:_0x1d8d1b,isAdmins:_0x3c1ee2,reply:_0x5aa6a9})=>{const _0x4441ba=_0x1cdfd5;try{let _0xcb3793=_0x4441ba(0xae)+_0x46020d+_0x4441ba(0xc0)+runtime(process[_0x4441ba(0xcc)]())+'*\x0a*│◈\x20ʀᴀᴍ\x20ᴜꜱᴀɢᴇ\x20:\x20'+(process['memoryUsage']()[_0x4441ba(0xb5)]/0x400/0x400)[_0x4441ba(0xcf)](0x2)+_0x4441ba(0xb2)+Math[_0x4441ba(0xba)](require('os')[_0x4441ba(0xbd)]/0x400/0x400)+'MB*\x0a*│◈\x20ᴘʟᴀᴛꜰᴏʀᴍ\x20:\x20'+os[_0x4441ba(0xd0)]()+_0x4441ba(0xaf);const _0x45e56b=await _0x37f7ab[_0x4441ba(0xcb)](_0x4f8d43,{'image':{'url':_0x4441ba(0xb4)},'caption':_0xcb3793},{'quoted':_0x369079});_0x37f7ab['ev']['on'](_0x4441ba(0xd3),async _0x356fb5=>{const _0x58f50e=_0x4441ba,_0x2556bb=_0x356fb5[_0x58f50e(0xc1)][0x0];if(!_0x2556bb[_0x58f50e(0xab)]||!_0x2556bb[_0x58f50e(0xab)][_0x58f50e(0xc7)])return;const _0x1a6454=_0x2556bb[_0x58f50e(0xab)][_0x58f50e(0xc7)][_0x58f50e(0xb1)][_0x58f50e(0xc9)]();if(_0x2556bb[_0x58f50e(0xab)]['extendedTextMessage'][_0x58f50e(0xca)]&&_0x2556bb[_0x58f50e(0xab)]['extendedTextMessage'][_0x58f50e(0xca)][_0x58f50e(0xac)]===_0x45e56b[_0x58f50e(0xc5)]['id'])switch(_0x1a6454){case'1':_0x5aa6a9(_0x58f50e(0xb8));break;case'2':_0x5aa6a9(_0x58f50e(0xaa));break;case'3':_0x5aa6a9(_0x58f50e(0xb9));break;case'4':_0x5aa6a9(_0x58f50e(0xb3));break;case'5':_0x5aa6a9(_0x58f50e(0xb7));break;default:_0x5aa6a9('Invalid\x20option.\x20Please\x20select\x20a\x20valid\x20option🔴');}});}catch(_0x14f90d){console[_0x4441ba(0xd1)](_0x14f90d),await _0x37f7ab[_0x4441ba(0xcb)](_0x4f8d43,{'react':{'text':'❌','key':_0x369079[_0x4441ba(0xc5)]}}),_0x5aa6a9(_0x4441ba(0xbc));}});
+const {readEnv} = require('../config')
+const {cmd , commands} = require('../command')
+const os = require("os")
+const {runtime} = require('../lib/functions')
+cmd({
+    pattern: "menu",
+    alias: ["list"],
+    desc: "bot's commands",
+    react: "📜",
+    category: "main"
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        let desc = `*👋 Hello ${pushname}*
+
+*╭─「 𝘙𝘖𝘞𝘋𝘠 𝘔𝘋 𝘔𝘌𝘕𝘜 𝘓𝘐𝘚𝘛 」*
+*│◈ ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
+*│◈ ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
+*│◈ ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
+*│◈ ᴠᴇʀꜱɪᴏɴ : 1.0.0*
+*╰──────────●●►*
+
+*╭╼╼╼╼╼╼╼╼╼╼*
+*├ 1 • MAIN*
+*├ 2 • SEARCH*
+*├ 3 • DOWNLOAD*
+*├ 5 • GROUP*
+*├ 6 • OWNER*
+*╰╼╼╼╼╼╼╼╼╼╼*
+
+_*🌟 Reply with the Number you want to select*_
+
+> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼*`;
+
+        const vv = await conn.sendMessage(from, { image: { url: "https://i.ibb.co/XZdtG0d/6254.jpg"}, caption: desc }, { quoted: mek });
+
+        conn.ev.on('messages.upsert', async (msgUpdate) => {
+            const msg = msgUpdate.messages[0];
+            if (!msg.message || !msg.message.extendedTextMessage) return;
+
+            const selectedOption = msg.message.extendedTextMessage.text.trim();
+
+            if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
+                switch (selectedOption) {
+                    case '1':
+                    reply(`
+                    
+
+╔════════════════════════╗  
+║ 🔧 **𝗠𝗔𝗜𝗡 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 🔧 ║  
+╚════════════════════════╝  
+
+╭─━─━─━〔 ⚡ **Commands** ⚡ 〕━─━─━╮  
+┃ ◈ **alive**  
+┃ ◈ **about**  
+┃ ◈ **menu**  
+┃ ◈ **allmenu**  
+┃ ◈ **support**  
+┃ ◈ **system**  
+┃ ◈ **ping**  
+┃ ◈ **runtime**
+┃ ◈ **jid**
+╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
+
+📊 **Total Commands in MAIN:** 9  
+
+━━━━━━━━━━━━━━━━━━━━━━━  
+💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼**  
+━━━━━━━━━━━━━━━━━━━━━━━
+`);
+
+                        break;
+                    case '2':               
+                        reply(`
+
+╔════════════════════════╗  
+║ 🔍 **𝗦𝗘𝗔𝗥𝗖𝗛 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 🔍 ║  
+╚════════════════════════╝  
+
+╭─━─━─━〔 ⚡ **Commands** ⚡ 〕━─━─━╮  
+┃ ◈ **yts**  
+┃ ◈ **srepo**
+┃ ◈ **githubstalk**  
+┃ ◈ **tiktokstalk**
+┃ ◈ **image**  
+┃ ◈ **npmstalk**
+┃ ◈ **tempmail**  
+┃ ◈ **checkmail**
+┃ ◈ **delmail**
+┃ ◈ **gpass**
+╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
+
+📊 **Total Commands in SEARCH:** 10
+
+━━━━━━━━━━━━━━━━━━━━━━━  
+💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼**  
+━━━━━━━━━━━━━━━━━━━━━━━
+`);
+                        break;
+                    case '3':               
+                        reply(`
+╔════════════════════════╗  
+║ 📥 **𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 📥 ║  
+╚════════════════════════╝  
+
+╭─━─━─━〔 ⚡ **Commands** ⚡ 〕━─━─━╮  
+┃ ◈ **apk**  
+┃ ◈ **twitter**  
+┃ ◈ **gdrive**  
+┃ ◈ **mediafire**  
+┃ ◈ **fb**  
+┃ ◈ **ig**    
+┃ ◈ **song**  
+┃ ◈ **video**   
+┃ ◈ **song2**  
+┃ ◈ **video2**  
+┃ ◈ **tiktok**
+┃ ◈ **mega**
+╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
+
+📊 **Total Commands in DOWNLOAD:** 12
+
+━━━━━━━━━━━━━━━━━━━━━━━  
+💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼**  
+━━━━━━━━━━━━━━━━━━━━━━━
+`);
+                    
+                        break;
+                    case '4':               
+                        reply(`
+╔════════════════════════╗  
+║ 👥 **𝗚𝗥𝗢𝗨𝗣 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 👥 ║  
+╚════════════════════════╝  
+
+╭─━─━─━〔 ⚡ **Commands** ⚡ 〕━─━─━╮  
+┃ ◈ **mute**  
+┃ ◈ **unmute**  
+┃ ◈ **promote**  
+┃ ◈ **demote**  
+┃ ◈ **del**  
+┃ ◈ **add**  
+┃ ◈ **getpic**  
+┃ ◈ **setwelcome**  
+┃ ◈ **setgoodbye**  
+┃ ◈ **admins**  
+┃ ◈ **groupdesc**  
+┃ ◈ **groupinfo**  
+┃ ◈ **gname**  
+┃ ◈ **setsubject**  
+┃ ◈ **tagall**  
+┃ ◈ **requests**  
+┃ ◈ **accept**  
+┃ ◈ **reject**  
+┃ ◈ **hidetag**  
+┃ ◈ **kick**  
+┃ ◈ **unlock**  
+┃ ◈ **lock**
+┃ ◈ **gname**  
+┃ ◈ **approve**  
+┃ ◈ **poll**  
+┃ ◈ **getpic**  
+┃ ◈ **join**  
+┃ ◈ **leave**  
+┃ ◈ **invite**  
+┃ ◈ **tagadmin**  
+┃ ◈ **closetime**  
+┃ ◈ **opentime**
+╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
+
+📊 **Total Commands in GROUP:** 32  
+
+━━━━━━━━━━━━━━━━━━━━━━━  
+💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼**  
+━━━━━━━━━━━━━━━━━━━━━━━
+`);
+                    break;
+                    case '5':               
+                        reply(`
+╔════════════════════════╗  
+║ 👨‍💻 **𝗢𝗪𝗡𝗘𝗥 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧** 👨‍💻 ║  
+╚════════════════════════╝  
+
+╭─━─━─━〔 🍿 **Commands** 🍿 〕━─━─━╮ 
+┃ ◈ **shutdown**  
+┃ ◈ **setpp**  
+┃ ◈ **shutdown**  
+┃ ◈ **clearchats**  
+┃ ◈ **block**
+┃ ◈ **unblock**
+╰─━─━─━─━─━─━─━─━─━─━─━─━─╯  
+
+📊 **Total Commands in MOVIE:** 9 
+
+━━━━━━━━━━━━━━━━━━━━━━━  
+💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘿𝘼𝙍𝙆 𝙎𝙄𝙃𝙄𝙉𝘼**  
+━━━━━━━━━━━━━━━━━━━━━━━
+`);
+                       
+                        
+                    break;
+                    default:
+                    
+                        reply("Invalid option. Please select a valid option🔴");
+                }
+
+            }
+        });
+
+    } catch (e) {
+        console.error(e);
+        await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
+        reply('An error occurred while processing your request.');
+    }
+});
