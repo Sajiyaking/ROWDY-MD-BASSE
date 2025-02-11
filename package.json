@@ -20,6 +20,7 @@
     "fs-extra": "^11.1.0",
     "path": "^0.12.7",
     "node-fetch": "^2.6.1",
+    "cheerio": "^1.0.0-rc.12",
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
@@ -30,6 +31,8 @@
     "google-tts-api":"2.0.2",
     "ruhend-scraper": "latest",
     "@sl-code-lords/movie-api": "1.0.0",
+    "@mrnima/tiktok-downloader":"1.0.0",
+    "@mrnima/facebook-downloader":"1.0.0",
     "pixaldrain-sinhalasub": "https://github.com/DarkMakerofc/pixaldrain-sinhalasub"
   }
 }
